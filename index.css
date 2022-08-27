@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+  background: url(bg.jpeg) no-repeat center center fixed;
+  background-size: cover; 
+  
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#name{
+  color: aliceblue;
+  font-size: 20px;
+}
+
+#mail{
+  color: aliceblue;
+  font-size: 20px;
+}
+
+#number{
+  color: aliceblue;
+  font-size: 20px;
+}
+
+#details{
+  color: azure;
+  text-align: center;
+  font-size: 40px;
+}
+
+#create{
+  border: none;
+  color: white;
+  /* padding: 15px 32px; */
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  /* margin-top: 5px; */
+}
+
+/* .table-wrapper{
+  color: aliceblue;
+} */
+
+#tabel{
+  color: aliceblue;
+}
